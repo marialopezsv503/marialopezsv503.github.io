@@ -4,3 +4,5 @@
 "Bienvenido a mi Portafolio de Logros Profesionales."
 
 Soy Maria Lopez y aca podras analizar los proyectos personales que vaya contruyendo.
+
+![Proyecto destacado](imagenes/maria.avif)
